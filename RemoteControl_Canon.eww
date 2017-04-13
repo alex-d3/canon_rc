@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\RemoteControl_RX_G2231\RemoteControl_RX_G2231.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\RemoteControl_TX_G2553\RemoteControl_TX_G2553.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

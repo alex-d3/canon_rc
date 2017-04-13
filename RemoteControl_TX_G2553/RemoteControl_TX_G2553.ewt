@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <toolchain>
+      <name>MSP430</name>
+    </toolchain>
+    <debug>1</debug>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <toolchain>
+      <name>MSP430</name>
+    </toolchain>
+    <debug>0</debug>
+  </configuration>
+  <group>
+    <name>msprf24</name>
+    <file>
+      <name>$PROJ_DIR$\msprf24\msp430_spi.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\msprf24\msp430_spi.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\msprf24\msprf24.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\msprf24\msprf24.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\msprf24\nRF24L01.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\msprf24\nrf_userconfig.h</name>
+    </file>
+  </group>
+  <file>
+    <name>$PROJ_DIR$\main.c</name>
+  </file>
+</project>
+
+
